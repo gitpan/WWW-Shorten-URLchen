@@ -15,10 +15,10 @@ name: WWW-Shorten-URLchen
 provides:
   WWW::Shorten::URLchen:
     file: lib/WWW/Shorten/URLchen.pm
-    version: v0.0.1
+    version: v0.0.2
 requires:
   WWW::Shorten: 3.00
 resources:
   license: http://dev.perl.org/licenses/
   repository: http://github.com/datamuc/WWW-Shorten-URLchen
-version: v0.0.1
+version: v0.0.2
